@@ -2,8 +2,7 @@
 //yihan
 //november 2017
 //arduino 1.8.3 on a macbook
-
-
+//version 1.0.0
 
 #define encoder0PinA  14  //rotary encoder 1 c pin
 #define encoder0PinB  15      //rotary encoder 1 d pin
